@@ -1,5 +1,5 @@
 import "./style.css";
-import post_img from "../images/neerajchopra.webp"
+import post_img from "../images/new.png"
 
 const Post = () => {
     return (

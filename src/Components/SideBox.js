@@ -1,5 +1,5 @@
 import './style.css'
-import image from "../images/neerajchopra.webp";
+import image from "../images/new.png";
 import SideBoxImage from "./SideBoxImage"
 
 const SideBox = ()=>{
